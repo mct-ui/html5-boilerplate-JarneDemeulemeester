@@ -10,6 +10,8 @@
      font-family: "Helvetica Neue", Helvetica, arial, sans-serif;
      color: #111;
      padding: 48px 25px 25px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
  }
 
  body {
